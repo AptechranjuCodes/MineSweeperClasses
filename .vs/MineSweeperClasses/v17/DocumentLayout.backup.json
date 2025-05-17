@@ -13,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CCD24C69-6F85-4E59-A585-EC7AE000B4CF}|MineSweeperClasses\\MineSweeperClasses.csproj|c:\\users\\admin\\source\\repos\\minesweeperclasses\\minesweeperclasses\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCD24C69-6F85-4E59-A585-EC7AE000B4CF}|MineSweeperClasses\\MineSweeperClasses.csproj|solutionrelative:minesweeperclasses\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4729BB65-A003-47CB-8A44-29EF94FBBA40}|MineSweeperConsole\\MineSweeperConsole.csproj|c:\\users\\admin\\source\\repos\\minesweeperclasses\\minesweeperconsole\\minesweeperconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4729BB65-A003-47CB-8A44-29EF94FBBA40}|MineSweeperConsole\\MineSweeperConsole.csproj|solutionrelative:minesweeperconsole\\minesweeperconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,20 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MineSweeperConsole.csproj",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MineSweeperClasses\\MineSweeperConsole\\MineSweeperConsole.csproj",
-              "RelativeDocumentMoniker": "MineSweeperConsole\\MineSweeperConsole.csproj",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MineSweeperClasses\\MineSweeperConsole\\MineSweeperConsole.csproj",
-              "RelativeToolTip": "MineSweeperConsole\\MineSweeperConsole.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-14T07:38:26.811Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -48,9 +32,10 @@
               "RelativeDocumentMoniker": "MineSweeperConsole\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\MineSweeperClasses\\MineSweeperConsole\\Program.cs",
               "RelativeToolTip": "MineSweeperConsole\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:38:17.599Z"
+              "WhenOpened": "2025-05-14T07:38:17.599Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,7 +45,7 @@
               "RelativeDocumentMoniker": "MineSweeperClasses\\Board.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\MineSweeperClasses\\MineSweeperClasses\\Board.cs",
               "RelativeToolTip": "MineSweeperClasses\\Board.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAxwEwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAiwHsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T07:35:34.412Z",
               "EditorCaption": ""
@@ -73,9 +58,10 @@
               "RelativeDocumentMoniker": "MineSweeperClasses\\Cell.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\MineSweeperClasses\\MineSweeperClasses\\Cell.cs",
               "RelativeToolTip": "MineSweeperClasses\\Cell.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:34:56.071Z"
+              "WhenOpened": "2025-05-14T07:34:56.071Z",
+              "EditorCaption": ""
             }
           ]
         }

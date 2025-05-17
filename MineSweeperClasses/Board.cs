@@ -86,7 +86,7 @@ namespace MineSweeperClasses
             // Top border
             Console.Write("   ");
             for (int col = 0; col < Size; col++)
-                Console.Write("+---");
+                Console.Write("+--");
             Console.WriteLine("+");
 
             for (int row = 0; row < Size; row++)
@@ -116,7 +116,7 @@ namespace MineSweeperClasses
                 // Border after row
                 Console.Write("   ");
                 for (int col = 0; col < Size; col++)
-                    Console.Write("+---");
+                    Console.Write("+--");
                 Console.WriteLine("+");
             }
         }
